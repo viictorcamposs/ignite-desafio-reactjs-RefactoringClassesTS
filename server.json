@@ -1,0 +1,12 @@
+{
+  "foods": [
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Teste definitivo definitivamente",
+      "price": "99.99",
+      "description": "Teste que n volta mais ",
+      "available": true,
+      "id": 1
+    }
+  ]
+}
